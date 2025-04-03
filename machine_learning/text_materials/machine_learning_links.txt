@@ -1,0 +1,23 @@
+Gradient Descent: https://www.youtube.com/watch?v=sDv4f4s2SB8
+
+Stochastic Gradient Descent: https://www.youtube.com/watch?v=vMh0zPT0tLI
+
+Ridge Regression: https://www.youtube.com/watch?v=Q81RR3yKn30
+
+Lasso Regression: https://www.youtube.com/watch?v=NGf0voTMlcs
+
+Elastic Net Regression: https://www.youtube.com/watch?v=1dKRdX9bfIo
+
+Finally, for those interested in residual analysis for regression analyses, this is a helpful overview: http://www.sfu.ca/~mjbrydon/tutorials/BAinPy/09_regression.html
+
+I am also linking below some additional resources to help with the concepts surrounding SVM:
+
+https://www.youtube.com/watch?v=efR1C6CvhmE - Main concept behind SVM
+
+https://www.youtube.com/watch?v=8A7L0GsBiLQ - Implementing SVM in Python
+
+Introduction to Decision Trees: https://www.youtube.com/watch?v=7VeUPuFGJHk 
+
+Random Forest models: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+
+Guest Lecture Link: https://uwaterloo.zoom.us/j/97258678620?pwd=GSLM5Cb3365Opdkbs0zBsCQ8uZHM5b.1
